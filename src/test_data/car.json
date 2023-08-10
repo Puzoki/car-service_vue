@@ -1,0 +1,154 @@
+{
+  "cars": [
+    {
+      "ID": 1,
+      "licence_plate": "Я123ЯХ",
+      "brand": "Toyota",
+      "model": "Camry",
+      "mileage": 50000,
+      "production_year": 2018,
+      "owner": 3,
+      "malfunction": "Проблемы с тормозной системой"
+    },
+    {
+      "ID": 2,
+      "licence_plate": "Д567ОД",
+      "brand": "Honda",
+      "model": "Civic",
+      "mileage": 80000,
+      "production_year": 2016,
+      "owner": 2,
+      "malfunction": "Треск в передней подвеске"
+    },
+    {
+      "ID": 3,
+      "licence_plate": "Р890РИ",
+      "brand": "Ford",
+      "model": "Mustang",
+      "mileage": 30000,
+      "production_year": 2020,
+      "owner": 1,
+      "malfunction": "Проблемы с двигателем"
+    },
+    {
+      "ID": 4,
+      "licence_plate": "К234КА",
+      "brand": "BMW",
+      "model": "X5",
+      "mileage": 60000,
+      "production_year": 2017,
+      "owner": 4,
+      "malfunction": "Проблемы с электрическими окнами"
+    },
+    {
+      "ID": 5,
+      "licence_plate": "Н678НУ",
+      "brand": "Jeep",
+      "model": "Grand Cherokee",
+      "mileage": 90000,
+      "production_year": 2014,
+      "owner": 5,
+      "malfunction": "Проблемы с системой охлаждения"
+    },
+    {
+      "ID": 6,
+      "licence_plate": "П901ПЛ",
+      "brand": "Nissan",
+      "model": "Altima",
+      "mileage": 55000,
+      "production_year": 2019,
+      "owner": 1,
+      "malfunction": "Проблемы с трансмиссией"
+    },
+    {
+      "ID": 7,
+      "licence_plate": "З345ЗИ",
+      "brand": "Lexus",
+      "model": "RX",
+      "mileage": 70000,
+      "production_year": 2015,
+      "owner": 6,
+      "malfunction": "Проблемы с двигателем"
+    },
+    {
+      "ID": 8,
+      "licence_plate": "У789УЦ",
+      "brand": "Subaru",
+      "model": "Forester",
+      "mileage": 80000,
+      "production_year": 2016,
+      "owner": 4,
+      "malfunction": "Проблемы с подвеской"
+    },
+    {
+      "ID": 9,
+      "licence_plate": "О012ОЩ",
+      "brand": "Kia",
+      "model": "Optima",
+      "mileage": 60000,
+      "production_year": 2018,
+      "owner": 3,
+      "malfunction": "Проблемы с электрикой"
+    },
+    {
+      "ID": 10,
+      "licence_plate": "В456ВС",
+      "brand": "Mercedes-Benz",
+      "model": "E-Class",
+      "mileage": 90000,
+      "production_year": 2014,
+      "owner": 6,
+      "malfunction": "Проблемы с подвеской"
+    },
+    {
+      "ID": 11,
+      "licence_plate": "А890АЖ",
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "mileage": 55000,
+      "production_year": 2020,
+      "owner": 5,
+      "malfunction": "Проблемы с системой охлаждения"
+    },
+    {
+      "ID": 12,
+      "licence_plate": "Л123ЛЭ",
+      "brand": "Audi",
+      "model": "A4",
+      "mileage": 75000,
+      "production_year": 2016,
+      "owner": 2,
+      "malfunction": "Проблемы с тормозами"
+    },
+    {
+      "ID": 13,
+      "licence_plate": "С567СМ",
+      "brand": "Honda",
+      "model": "Civic",
+      "mileage": 80000,
+      "production_year": 2016,
+      "owner": 1,
+      "malfunction": "Проблемы с трансмиссией"
+    },
+    {
+      "ID": 14,
+      "licence_plate": "Ф890ФТ",
+      "brand": "Ford",
+      "model": "Focus",
+      "mileage": 60000,
+      "production_year": 2017,
+      "owner": 4,
+      "malfunction": "Проблемы с электрикой"
+    },
+    {
+      "ID": 15,
+      "licence_plate": "Т234ТР",
+      "brand": "Chevrolet",
+      "model": "Cruze",
+      "mileage": 70000,
+      "production_year": 2015,
+      "owner": 8,
+      "malfunction": "Проблемы с двигателем"
+    }
+  ]
+}
